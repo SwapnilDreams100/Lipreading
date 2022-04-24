@@ -1,0 +1,33 @@
+Model and log being saved in: ./train_logs/tcn/2022-04-14T22:48:26
+2-norm of the neural network: 48.1286
+Partition train loaded
+Partition val loaded
+Partition test loaded
+25000 in total	CR: 0.55604
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.6574
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.70624
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.73784
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.74916
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.7674
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.77636
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.78072
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.79256
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.79232
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.7972
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.80288
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.80784
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
+25000 in total	CR: 0.80884
+Checkpoint saved at ./train_logs/tcn/2022-04-14T22:48:26/ckpt.pth.tar
